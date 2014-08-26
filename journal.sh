@@ -1,6 +1,6 @@
 #!/bin/bash
 
-if [[ "$JOURNAL_DIR" == "" ]]; then
+if [[ -z "$JOURNAL_DIR" ]]; then
   echo "-- Set environment variable JOURNAL_DIR to where your journal entries are stored."
   exit 0;
 fi

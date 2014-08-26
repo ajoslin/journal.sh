@@ -21,7 +21,7 @@ If today is August 24th, open `~/my-journal-entries/2014-08-25.txt` in vim:
 $ journal
 ```
 
-Open the journal from May 15th, 2014:
+Open the journal entry from May 15th, 2014:
 
 ```sh
 $ journal 2014-05-15
