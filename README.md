@@ -15,13 +15,13 @@ export EDITOR=vim
 
 ### Examples
 
-If today is August 24th, open `~/my-journal-entries/2014-08-25.txt` in vim:
+If today is August 24th, running `journal` will open `~/my-journal-entries/2014-08-25.txt` in vim:
 
 ```sh
 $ journal
 ```
 
-Open the journal entry from May 15th, 2014:
+To open the journal entry from May 15th, 2014:
 
 ```sh
 $ journal 2014-05-15
