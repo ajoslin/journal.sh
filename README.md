@@ -15,7 +15,7 @@ export EDITOR=vim
 
 ### Examples
 
-If today is August 24th, running `journal` will open `~/my-journal-entries/2014-08-25.txt` in vim:
+If today is August 25th, running `journal` will open `~/my-journal-entries/2014-08-25.txt` in vim:
 
 ```sh
 $ journal
