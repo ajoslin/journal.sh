@@ -11,4 +11,4 @@ else
   DATE=$1
 fi
 
-$EDITOR $JOURNAL_DIR/$DATE.txt
+$EDITOR "$JOURNAL_DIR/$DATE.txt"
